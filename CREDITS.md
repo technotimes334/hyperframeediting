@@ -11,7 +11,7 @@ In particular, we want to acknowledge:
   architectural ideas — ordered async barriers for parallel frame capture,
   multi-host port availability probing for dev servers, and the broader shape
   of a "render HTML to video" CLI — were informed by studying how Remotion
-  approaches these problems.
+  approaches these problems. j
 
 All code in this repository is independently implemented and distributed
 under the [Apache 2.0 License](LICENSE). HyperFrames is not affiliated with
